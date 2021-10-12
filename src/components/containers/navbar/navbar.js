@@ -11,7 +11,7 @@ const NavBar = ({sidebarOpen, openSidebar}) => {
             </div>
 
             <div className="nav-left">
-                <h4 className="font-secondary">REPORTING APP</h4>
+                <h4 className="font-secondary">LIBRARY MANAGEMENT SYSTEM</h4>
                 {/* <Link to="/map">MAIN</Link>
                 <Link to="/map">MAP</Link>
                 <Link to="/">INFORMATION</Link>
